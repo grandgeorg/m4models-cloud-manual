@@ -1,0 +1,49 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Handbuch zur Verwendung von m4models Cloud\n\u00b6",
+            "title": "Start"
+        },
+        {
+            "location": "/#handbuch-zur-verwendung-von-m4models-cloud",
+            "text": "",
+            "title": "Handbuch zur Verwendung von m4models Cloud"
+        },
+        {
+            "location": "/einleitung/",
+            "text": "Einleitung\n\u00b6\n\n\nDie Verwendung der Clouddienste bei m4models erfolgt mit drei verschiedenen Anwendungen, denen im Arbeitsfluss jeweils unterschiedliche Aufgabe zukommen.\n\n\n\n\nVerwendung der Direktverbindung \u00fcber ein \nNetzlaufwerk\n im Windows Explorer\n\n\nVerwendung von \nWinSCP\n\n\nVerwendung der \nWebsite",
+            "title": "Einleitung"
+        },
+        {
+            "location": "/einleitung/#einleitung",
+            "text": "Die Verwendung der Clouddienste bei m4models erfolgt mit drei verschiedenen Anwendungen, denen im Arbeitsfluss jeweils unterschiedliche Aufgabe zukommen.   Verwendung der Direktverbindung \u00fcber ein  Netzlaufwerk  im Windows Explorer  Verwendung von  WinSCP  Verwendung der  Website",
+            "title": "Einleitung"
+        },
+        {
+            "location": "/netzlaufwerk/",
+            "text": "Verwendung der Direktverbindung \u00fcber ein Netzlaufwerk im Windows Explorer\n\u00b6",
+            "title": "Netzlaufwerk"
+        },
+        {
+            "location": "/netzlaufwerk/#verwendung-der-direktverbindung-uber-ein-netzlaufwerk-im-windows-explorer",
+            "text": "",
+            "title": "Verwendung der Direktverbindung \u00fcber ein Netzlaufwerk im Windows Explorer"
+        },
+        {
+            "location": "/winscp/",
+            "text": "Verwendung von WinSCP\n\u00b6",
+            "title": "WinSCP"
+        },
+        {
+            "location": "/winscp/#verwendung-von-winscp",
+            "text": "",
+            "title": "Verwendung von WinSCP"
+        },
+        {
+            "location": "/website/",
+            "text": "Verwendung der Website",
+            "title": "Website"
+        }
+    ]
+}
