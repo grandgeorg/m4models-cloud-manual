@@ -1,0 +1,62 @@
+# Project information
+site_name: 'm4models Cloud Handbuch'
+site_description: 'Handbuch zur Arbeitsweise mit der Cloud'
+site_author: 'Viktor Grandgeorg, Arne Kronberger'
+
+# Copyright
+copyright: 'Copyright &copy; 2017 Viktor Grandgeorg, Arne Kronberger'
+
+
+# Structure
+pages:
+    - Start: index.md
+    - Einleitung: einleitung.md
+
+
+# Theme
+theme: readthedocs
+theme_dir: themes/readthedocs
+
+# Options
+extra:
+  logo: 'img/logo.svg'
+  palette:
+    primary: 'blue grey'
+    accent: 'blue grey'
+  # Layout wording
+  wording_next: 'vor'
+  wording_previous: 'zurück'
+  wording_built_with: 'Erstellt mit'
+  wording_built_using: 'unter Verwendung eines'
+  wording_built_theme: 'Themes'
+  wording_theme_by: 'von'
+  wording_search_docs: 'Handbuch durchsuchen'
+  wording_docs: 'Handbuch'
+
+extra_css:
+    - css/extra.css
+
+extra_javascript:
+    - js/jquery-3.1.1.min.js
+    - js/extra.js
+
+use_directory_urls: true
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite(guess_lang=false)
+  - footnotes
+  - meta
+  - toc(permalink=true)
+  - sane_lists
+  - attr_list
+  - custom_span_class
+  - figureAltCaption
+  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.magiclink
+  - pymdownx.superfences
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.inlinehilite
