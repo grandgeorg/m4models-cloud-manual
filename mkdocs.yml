@@ -11,6 +11,9 @@ copyright: 'Copyright &copy; 2017 Viktor Grandgeorg, Arne Kronberger'
 pages:
     - Start: index.md
     - Einleitung: einleitung.md
+    - Netzlaufwerk: netzlaufwerk.md
+    - WinSCP: winscp.md
+    - Website: website.md
 
 
 # Theme
