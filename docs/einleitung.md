@@ -67,7 +67,7 @@ Und das wichtigste: **Nicht unbedacht losspeichern/uploaden.** Bevor ihr etwas i
 
 Und **verwechselt Speichern nicht mit Upload**! Nicht ‚in die Cloud speichern‘, sondern in Hamburg (bzw. in Berlin) speichern und dann in die Cloud hochladen.
 
-**Das Schöne ist**: Es gibt Ausnahmen. Man kann mit WinSCP durchaus Textdokumente oder einzelne JPGs direkt zum Bearbeiten öffnen, wenn sie nicht übermäßig groß sind. Das sollte zumindest bei Bildern aber ganz klar die **Ausnahme** sein.
+**Das Schöne ist**: Es gibt Ausnahmen. Man kann mit *WinSCP* durchaus Textdokumente oder einzelne JPGs direkt zum Bearbeiten öffnen, wenn sie nicht übermäßig groß sind. Das sollte zumindest bei Bildern aber ganz klar die **Ausnahme** sein.
 
 Solltet ihr **mehrere oder große** Dateien aus der Cloud zum Bearbeiten öffnen müssen, was natürlich nicht verboten ist, dann ladet euch diese – ggf. das ganze Verzeichnis – erst herunter, bevor ihr sie öffnet. Danach siehe oben: **Bearbeiten – Speichern – wieder Hochladen**.
 
