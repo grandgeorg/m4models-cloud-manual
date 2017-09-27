@@ -48,7 +48,7 @@ Das heißt auch, dass Ihr Fotos in solchen Formaten, die Ihr von Fotografen zuge
 
 **Kurz**: Die Cloud ist **kein** Zwischenspeicher oder Arbeitslaufwerk.
 
-# Was ihr **nicht** machen solltet #
+# Was ihr *nicht* machen solltet #
 
 Egal wie ihr auf die Dateien der Cloud zugreift – sie liegen im Internet und nicht auf eurem Rechner. Ihr solltet also in der Regel **nicht Dateien von der Cloud direkt zum Bearbeiten öffnen**. Das Speichern auf die Cloud ist ein Upload, das Öffnen der Datei ein Download und jedes Speichern der Datei ein erneuter Upload. Das ist natürlich langsam und auch fehleranfällig.
 
