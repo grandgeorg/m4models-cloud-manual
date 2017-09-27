@@ -75,7 +75,7 @@ Solltet ihr **mehrere oder große** Dateien aus der Cloud zum Bearbeiten öffnen
 
 ### Oder anders: Wie kann ich arbeiten? ###
 
-Ich hatte euch versprochen, euch auf dem NAS ein Arbeitslaufwerk einzurichten, das ihr benutzen könnt, um große Dateien zwischenzeitlich abzulegen, die noch nicht fertig sind oder aus anderen Gründen nicht in die Cloud gehören. Das scheiterte bis jetzt daran, dass auf der NAS noch kein Platz ist. Wir sind immer noch am Dateien abgleichen. Sobald das erledigt ist, und wenn ihr uns **definitiv** und **mit einer Stimme** zusagt, dass keine neuen Model-Dateien mehr von euch auf der NAS abgelegt werden oder wurden, dann mache ich euch dort ein Arbeitslaufwerk zum internen (Hamburg) Gebrauch. Für Berlin gilt das Gleiche.
+Ich hatte euch versprochen, auf dem NAS ein Arbeitslaufwerk einzurichten, das ihr benutzen könnt, um große Dateien zwischenzeitlich abzulegen, die noch nicht fertig sind oder aus anderen Gründen nicht in die Cloud gehören. Das scheiterte bis jetzt daran, dass auf der NAS noch kein Platz ist. Wir sind immer noch am Dateien abgleichen. Sobald das erledigt ist, und wenn ihr uns **definitiv** und **mit einer Stimme** zusagt, dass keine neuen Model-Dateien mehr von euch auf der NAS abgelegt werden oder wurden, dann mache ich euch dort ein Arbeitslaufwerk zum internen (Hamburg) Gebrauch. Für Berlin gilt das Gleiche.
 
 Bis dahin alles was nicht in die Cloud gehört, bitte **auf eurem Rechner zwischenspeichern**. Macht euch einen Ordner irgendwo unter Dokumente oder Bilder und benutzt diesen für Dateien, die Ihr noch sortieren, bearbeiten oder überdenken müsst.
 
