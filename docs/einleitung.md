@@ -6,8 +6,6 @@ Die Verwendung der Clouddienste bei m4models erfolgt mit drei verschiedenen Anwe
 - Verwendung von **[WinSCP](winscp.md)**
 - Verwendung der **[Website](website.md)**
 
-[TOC]
-
 # Begiffe #
 
 **NAS** (Network Attached Storage, Netzwerkspeicher) ist das Ding im Keller, das in Hamburg auf den Namen NAS-M4 hört (in Berlin auf LG NAS und UCS), und auf das ihr bis vor kurzem fast alles abgespeichert habt.
