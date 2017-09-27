@@ -48,7 +48,7 @@ Das heißt auch, dass Ihr Fotos in solchen Formaten, die Ihr von Fotografen zuge
 
 **Kurz**: Die Cloud ist **kein** Zwischenspeicher oder Arbeitslaufwerk.
 
-# Was ihr nicht machen solltet #
+# Was ihr **nicht** machen solltet #
 
 Egal wie ihr auf die Dateien der Cloud zugreift – sie liegen im Internet und nicht auf eurem Rechner. Ihr solltet also in der Regel **nicht Dateien von der Cloud direkt zum Bearbeiten öffnen**. Das Speichern auf die Cloud ist ein Upload, das Öffnen der Datei ein Download und jedes Speichern der Datei ein erneuter Upload. Das ist natürlich langsam und auch fehleranfällig.
 
@@ -56,9 +56,10 @@ Ihr solltet **keine Dateien aus Programmen heraus direkt in die Cloud** speicher
 
 Niemals Dateien in der Cloud direkt auswählen und per rechter Maustaste z.B. zu einem ZIP-Archiv hinzufügen. Auch hier wäre das Download->Verarbeitung->Upload, und euer Rechner wäre minutenlang blockiert. **Stattdessen: Downloaden->Zippen->Zip-Datei hochladen**. Oder noch besser, wenn geht: Wissen, dass man ein Zip braucht, bevor man die Bilder in der Cloud parkt.
 
-Und das wichtigste: **Nicht unbedacht losspeichern/uploaden.** Bevor ihr etwas in die Cloud speichert – wie auch immer – erst überlegen:** Ist das **fertig**?
-** Ist das nicht in einem **unnötig großen** Format?
-** Gehört das überhaupt in die **Cloud** (ist das zur Kommunikation oder wird das noch editiert)?
+Und das wichtigste: **Nicht unbedacht losspeichern/uploaden.** Bevor ihr etwas in die Cloud speichert – wie auch immer – erst überlegen:
+- Ist das **fertig**?
+- Ist das nicht in einem **unnötig großen** Format?
+- Gehört das überhaupt in die **Cloud** (ist das zur Kommunikation oder wird das noch editiert)?
 
 # Was ihr machen solltet #
 
