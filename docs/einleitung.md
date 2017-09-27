@@ -16,7 +16,7 @@ Die Verwendung der Clouddienste bei m4models erfolgt mit drei verschiedenen Anwe
 
 2. Mit **WinSCP (über die Verknüpfung OwnCloudSCP)**: Dieses ist eine Software zum Hoch- und Herunterladen von Dateien auf einen – bzw. von einem – Webserver. Nicht mehr und nicht weniger.
 
-3. Über die **Web-Oberfläche**, die ihr in eurem Browser unter [http://www.m4models-cloud.de/ http://www.m4models-cloud.de] erreicht.
+3. Über die **Web-Oberfläche**, die ihr in eurem Browser unter [http://www.m4models-cloud.de/](http://www.m4models-cloud.de) erreicht.
 
 # Vorweg #
 
@@ -88,17 +88,17 @@ Es wird bald wieder ein NAS oder ähnlichen Netzwerkspeicher geben, auf dem ihr 
 
 # Software #
 
-**WinSCP (OwnCloudSCP)**
+### WinSCP (OwnCloudSCP) ###
 
 Wenn ihr Dateien in das WinSCP-Fenster zieht, werden diese in eine Warteschlange eingereit. Ihr müsst euch dann in der Regel nicht mehr darum kümmern und könnt weiterarbeiten. Die Warteschlange wird im Hintergrund abgearbeitet, bis sie fertig ist.
 
 Die Upload-Geschwindigkeit beträgt für euer gesamtes Büro (Hamburg) etwa ein halbes Magabyte pro Sekunde. Das macht in acht Stunden immerhin knapp 14 GigaByte. Wenn ihr also mal eine größere Menge Daten zu übertragen habt, könnt ihr sie kurz vor Feierabend in die Warteschlange ziehen und den Rechner einfach laufen lassen. Am nächsten Morgen ist es dann fertig.
 
-**Das Netzlaufwerk O:**
+### Das Netzlaufwerk O: ###
 
 ... ist zum Kopieren, Verschieben und Hochladen von Dateien eher weniger geeignet, bietet aber gegenüber WinSCP den Vorteil, dass man hier Vorschauen von Bildern und anderen Dokumenten zu sehen bekommt. Bei einzelnen und kleineren Dateien oder Datenmengen aber durchaus auch zum Arbeiten geeignet. 
 
-**Die Web-Oberfläche (m4models-cloud.de)**
+### Die Web-Oberfläche (m4models-cloud.de) ###
 
 Hier werden Freigaben für Mitarbeiter und Kunden erstellt. Ziel wird sein, dass ihr in Zukunft hauptsächlich Links zu speziell freigegebenen Verzeichnissen versendet, statt die Bilder in Emails zu packen und herumzuschicken.
 
@@ -108,6 +108,6 @@ Soweit erst mal. Ich hoffe, es hilft euch.
 
 Bei Fragen bitte melden!
 
-Arne Kronberger
+Arne Kronberger,
 Viktor Grandgeorg
 
