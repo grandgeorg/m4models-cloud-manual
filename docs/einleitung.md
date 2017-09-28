@@ -91,7 +91,7 @@ Es wird bald wieder ein NAS oder ähnlichen Netzwerkspeicher geben, auf dem ihr 
 
 ### WinSCP (OwnCloudSCP) ###
 
-Wenn ihr Dateien in das WinSCP-Fenster zieht, werden diese in eine Warteschlange eingereit. Ihr müsst euch dann in der Regel nicht mehr darum kümmern und könnt weiterarbeiten. Die Warteschlange wird im Hintergrund abgearbeitet, bis sie fertig ist.
+Wenn ihr Dateien in das WinSCP-Fenster zieht, werden diese in eine Warteschlange eingereiht. Ihr müsst euch dann in der Regel nicht mehr darum kümmern und könnt weiterarbeiten. Die Warteschlange wird im Hintergrund abgearbeitet, bis sie fertig ist.
 
 Die Upload-Geschwindigkeit beträgt für euer gesamtes Büro (Hamburg) etwa ein halbes Magabyte pro Sekunde. Das macht in acht Stunden immerhin knapp 14 GigaByte. Wenn ihr also mal eine größere Menge Daten zu übertragen habt, könnt ihr sie kurz vor Feierabend in die Warteschlange ziehen und den Rechner einfach laufen lassen. Am nächsten Morgen ist es dann fertig.
 
